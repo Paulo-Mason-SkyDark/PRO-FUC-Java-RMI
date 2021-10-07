@@ -8,3 +8,6 @@ A solução nesse cenário é a utilização do cliente RMI que busca automatica
 classes do servidor onde é compartilhada a classe e, consequentemente, a solução que ela traz.
 A nova classe é carregada na memória e o cliente RMI pode utilizá-la tranquilamente.
 Vejamos um exemplo neste projeto para prova de conceito, para a criação simples de um servidor em Java RMI.
+
+para executar e ver seu funcionamento, basta usar o seguinte comando:
+    # javac ServerWalk.java
